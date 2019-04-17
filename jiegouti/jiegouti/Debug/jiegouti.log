@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/4/17 23:06:05。
+     1>项目“F:\C语言\jiegouti\jiegouti\jiegouti.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>f:\c语言\jiegouti\jiegouti\test.c(9): error C2628: “Student”后面接“void”是非法的(是否忘记了“;”?)
+     1>f:\c语言\jiegouti\jiegouti\test.c(9): error C2143: 语法错误 : 缺少“)”(在“*”的前面)
+     1>f:\c语言\jiegouti\jiegouti\test.c(9): error C2143: 语法错误 : 缺少“{”(在“*”的前面)
+     1>f:\c语言\jiegouti\jiegouti\test.c(9): error C2059: 语法错误:“)”
+     1>f:\c语言\jiegouti\jiegouti\test.c(9): error C2054: 在“s”之后应输入“(”
+     1>f:\c语言\jiegouti\jiegouti\test.c(18): error C2065: “Student”: 未声明的标识符
+     1>f:\c语言\jiegouti\jiegouti\test.c(18): error C2146: 语法错误: 缺少“;”(在标识符“student”的前面)
+     1>f:\c语言\jiegouti\jiegouti\test.c(18): error C2065: “student”: 未声明的标识符
+     1>f:\c语言\jiegouti\jiegouti\test.c(18): error C2059: 语法错误:“{”
+     1>f:\c语言\jiegouti\jiegouti\test.c(19): warning C4013: “Print”未定义；假设外部返回 int
+     1>f:\c语言\jiegouti\jiegouti\test.c(19): error C2065: “student”: 未声明的标识符
+     1>已完成生成项目“F:\C语言\jiegouti\jiegouti\jiegouti.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.86

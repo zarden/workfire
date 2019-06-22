@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/6/22 14:33:34。
+     1>项目“F:\C语言\D24\D24\D24.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c SeqList.c
+         SeqList.c
+     1>f:\c语言\d24\d24\seqlist.c(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c语言\d24\d24\seqlist.c(80): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c语言\d24\d24\seqlist.c(95): warning C4018: “>=”: 有符号/无符号不匹配
+     1>f:\c语言\d24\d24\seqlist.c(108): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c语言\d24\d24\seqlist.c(113): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\c语言\d24\d24\seqlist.c(115): error C2065: “x”: 未声明的标识符
+     1>f:\c语言\d24\d24\seqlist.c(124): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\c语言\d24\d24\seqlist.c(126): error C2065: “x”: 未声明的标识符
+     1>f:\c语言\d24\d24\seqlist.c(130): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\c语言\d24\d24\seqlist.c(133): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\c语言\d24\d24\seqlist.c(139): fatal error C1075: 与左侧的 大括号“{”(位于“f:\c语言\d24\d24\seqlist.c(104)”)匹配之前遇到文件结束
+         main.c
+         正在生成代码...
+     1>已完成生成项目“F:\C语言\D24\D24\D24.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:08.04

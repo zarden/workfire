@@ -26,10 +26,10 @@ int main()
 	int a[10] = { 5, 3, 6, 7, 9, 1, 2, 8, 4, 0 };
 	int n = sizeof(a) / sizeof(a[0]);
 	BabbleSort(a, n);
-	for ( i = 0; i < n; i++)
-	{
-		printf("%d\n", a[i]);
-	}
+	//for ( i = 0; i < n; i++)
+	//{
+		printf("%d\n", a[9]);
+	//}
 	putchar('\n');
 	system("pause");
 	return 0;

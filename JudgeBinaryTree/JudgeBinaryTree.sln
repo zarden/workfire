@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertSort", "InsertSort\InsertSort.vcxproj", "{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JudgeBinaryTree", "JudgeBinaryTree\JudgeBinaryTree.vcxproj", "{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}.Debug|Win32.ActiveCfg = Debug|Win32
-		{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}.Debug|Win32.Build.0 = Debug|Win32
-		{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}.Release|Win32.ActiveCfg = Release|Win32
-		{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}.Release|Win32.Build.0 = Release|Win32
+		{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}.Debug|Win32.Build.0 = Debug|Win32
+		{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}.Release|Win32.ActiveCfg = Release|Win32
+		{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

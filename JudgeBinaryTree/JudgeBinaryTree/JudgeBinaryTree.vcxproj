@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5BE30819-5694-4017-9F6B-ABA99D1AEEE1}</ProjectGuid>
-    <RootNamespace>InsertSort</RootNamespace>
+    <ProjectGuid>{5FDA8A99-1C74-4FA6-9DE1-055AFB0DFA1D}</ProjectGuid>
+    <RootNamespace>JudgeBinaryTree</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,8 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="InsertSort.c" />
-    <ClCompile Include="main.c" />
+    <ClCompile Include="BinaryTreeComplete.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
